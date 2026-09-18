@@ -10,3 +10,7 @@ A fast, modern Python utility to extract and repack Resident Evil 4 `.fen` files
 ## How to Use
 1. Run `RUN EXTRACT ALL FEN.bat` to extract files.
 2. Run `RUN REPACK ALL FEN.bat` to repack files.
+
+
+## Support
+If you find this tool helpful, consider supporting my work via [GitHub Sponsors](https://github.com/sponsors/3RFAJA)!
